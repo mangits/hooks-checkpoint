@@ -1,0 +1,19 @@
+div .productCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  font-family:monospace
+}
+.productDesc {
+  width: 50vw;
+  font-family:monospace;
+  margin: 5px 5px;
+}
+div .details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px 10px;
+  font-family: fantasy;
+}
